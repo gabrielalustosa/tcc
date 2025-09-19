@@ -1,0 +1,17 @@
+# Folders:
+.ruff_cache/
+.pytest_cache/
+.venv/
+__pycache__/
+htmlcov/
+.ruff_cache/
+.vscode/
+build/
+*.egg-info/
+*/environment/database/json/*.json
+
+# Files:
+.coverage
+teste*.py
+logs/*.txt
+derby.log
